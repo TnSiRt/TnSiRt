@@ -31,6 +31,6 @@
 
 ---
 
-![Header](https://github.com/TnSiRT/TnSiRt/blob/main/banner.png)
+![Header](https://github.com/TnSiRT/TnSiRt/blob/main/banner.jpg)
 
 ⭐ *Спасибо что заглянули! Хорошего дня!* 😊
