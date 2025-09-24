@@ -15,7 +15,7 @@
 
 ## 📊 Моя статистика
 
-<img='https://github-readme-stats.vercel.app/api?username=TnSiRt&show_icons=true&theme=radical'>  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TnSiRt&layout=compact&theme=radical)
+![GithubStats](https://github-readme-stats.vercel.app/api?username=TnSiRt&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TnSiRt&layout=compact&theme=radical)
 
 ## 🔥 Мои проекты
 
