@@ -9,7 +9,8 @@
     "languages": [
         "Python",
         "SQL",
-        "Dart"
+        "Dart",
+        "C#"
     ],
     "frameworks": [
         "Django", "FastAPI",
