@@ -1,52 +1,69 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Привет,+Я+TnSiRt)](https://git.io/typing-svg)  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Backend+|+Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=HI+WOLRD!)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=SOFTWARE+CREATION+IS+MY+LOVE!)](https://git.io/typing-svg)
 
 
-## 🛠️ Мой стек технологий
-```python
-{
-    "languages": [
-        "Python",
-        "SQL",
-        "Dart",
-        "C#"
-    ],
-    "frameworks": [
-        "Django", "FastAPI",
-        "Flask", "Kivy\Kivymd",
-        "Requests", "BeautifulSoup"
-    ], 
-    "tools": [
-        "Git",
-        "Linux"
-    ],
-    "hobbies": [
-        "Музыка",
-        "Автоматизация",
-        "Open Source"
-    ]
-}
-```
+## 🛠️ My technology stack
+<table>
+    <tr>
+        <th>Language</th>
+        <th>Frameworks</th>
+        <th>|</th>
+        <th>Tools</th>
+        <th>hobbies</th>
+    </tr>
+    <tr>
+        <td>Python</td>
+        <td>Flask, FastApi, Sqlite3,<br>Kivy/Kivymd, Request<br>BS4, Scapy</td>
+        <td>|</td> 
+        <td>Linux</td>
+        <td>Open Source development</td>
+    </tr>
+    <tr>
+        <td>Dart</td>
+        <td>Flutter</td>
+        <td>|</td> 
+        <td>Git</td>
+        <td>Music</td>
+    </tr>
+    <tr>
+        <td>C / C++ / C#</td>
+        <td>GTK</td>
+        <td>|</td> 
+        <td>Vim</td>
+        <td>Games</td>
+    </tr>
+    <tr>
+        <td>HTML / CSS / JS</td>
+        <td> - </td>
+        <td>|</td> 
+        <td>Obsidian</td>
+        <td>launguage learning</td>
+    </tr>
+</table> 
 
-## 📊 Моя статистика
+## 📊 My statistics
 
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=TnSiRt&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TnSiRt&layout=compact&theme=radical)
 
-## 🔥 Мои проекты
+## 🔥 My projects
 
-### 🎵 [Yandex Music API](https://github.com/yourusername/yandex-music-api)
-Умный клиент для работы с Яндекс.Музыкой
+### 🎵 [YandeMusic](https://github.com/TnSiRt/YandeMusic)
+<s>NOT a smart</s> client for working with Yandex.Music
 
-### 🖥️ [AntiSurf](https://github.com/yourusername/another-project](https://github.com/TnSiRt/AntiSurf))
-Приложение для блокировки сайтов на пк.
+### 📶🔊🔋⏰[MyBar](https://github.com/TnSiRt/MyBar)
+My status bar for Linux written in C + C++
 
-## 📫 Как со мной связаться
+### 🚀[MyLauncher](https://github.com/TnSiRt/MyLauncher)
+Linux Application Launcher
 
-[![Telegram](https://img.shields.io/badge/Telegram-@username-blue)](https://t.me/TnSiRT)
+## 📫 How to contact me
+
+[![Telegram](https://img.shields.io/badge/Telegram-link-blue)](https://t.me/BR1R0)
+[![Telegram](https://img.shields.io/badge/VK-link-gray)](https://vk.com/nfvultvtyzytnztcnmdctulf)
+
 
 ---
 
-![Header](https://github.com/TnSiRT/TnSiRt/blob/main/banner.jpg)
+<img src="https://github.com/TnSiRT/TnSiRt/blob/main/banner.jpg" width="400">
 
-⭐ *Спасибо что заглянули! Хорошего дня!* 😊
+⭐ *Thanks for stopping by! Have a nice day!* 😊
